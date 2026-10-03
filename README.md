@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of ernestdefoe/google-fonts.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/google-fonts) or the [upstream repository](https://github.com/ernestdefoe/google-fonts).
 
-**0** versions archived · Latest: [`0.2.4`](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.4) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`0.2.4`](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.4) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-06-07 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.1.0) |
+| `0.2.0` | 2026-06-07 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.0) |
+| `0.2.1` | 2026-06-07 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.1) |
+| `0.2.2` | 2026-06-21 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.2) |
+| `0.2.3` | 2026-06-21 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.3) |
+| `0.2.4` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-google-fonts/tree/archive/v0.2.4) |
 
 Catalog entry: [packages/ernestdefoe-google-fonts.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-google-fonts.json)
 
